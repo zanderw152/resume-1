@@ -1,0 +1,65 @@
+@charset "utf-8";
+/* CSS Document */
+* {
+box-sizing: border-box;
+}
+body {
+	background-color :grey;
+	color : lightgrey;
+	padding-left: 10px;
+	padding-right: 60px;
+}
+h1 {
+	text-align: center;
+	font: "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, "sans-serif";	
+	color: azure;
+	background-color: cadetblue;
+	font-size: 35px;
+}
+h2 {
+text-align: center;
+font: "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, "sans-serif";
+color:cadetblue;
+font-size: 30px;
+padding: 0px;
+	background-color: darkgray;
+}
+sidebar {
+text-align: left;	
+font-size: 20px;
+float:left;
+width: 13%;
+padding-right:100px;
+background-color:mediumpurple;
+}
+content {
+
+font-size: 20px;
+padding-left: 50px;
+padding-right: 50px;
+}
+footer {
+	
+}
+img {
+	background-color: grey;
+	float: right;
+	vertical-align: top;
+	
+}
+ol {
+padding-left: 100px;
+	padding-bottom: 20px;
+}
+h3 {
+padding-left: 625px;	
+}
+h4 {
+font-size: 20px;
+	align-content: center;
+	background-color: mediumpurple;
+}
+strong {
+	font-size: 20px;
+}
+ 
